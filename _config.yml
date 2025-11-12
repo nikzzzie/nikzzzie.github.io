@@ -23,11 +23,11 @@ repository               : "nikzzzie/nikzzzie.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me pfp.png"
   name             : "Niki Ellison"
   pronouns         : "She/Her" # example: "she/her"  
   bio              : "Hallo, this is my portfolio where I post all my creations! That includes my coding projects, art, and generally all about me! Enjoy! <3"
-  location         : "Earth"
+  location         : "Forest Hill, MD"
   employer         : "Havre De Grace High School"
   uri              : # URL
   email            : "nikzzzie@gmail.com" 
